@@ -18,7 +18,15 @@
     <a href="https://github.com/siddhantbhatia220"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 
-  <!-- Profile Views counter -->
+  <!-- Profile Navigation & Counter -->
+  <p align="center">
+    <code><a href="#-about-me">About Me</a></code> • 
+    <code><a href="#%EF%B8%8F-tech-arsenal">Tech Arsenal</a></code> • 
+    <code><a href="#-featured-builds">Featured Builds</a></code> • 
+    <code><a href="#-international-programs--certifications">Achievements</a></code> • 
+    <code><a href="#-github--leetcode-analytics">Analytics</a></code>
+  </p>
+
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=siddhantbhatia220&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   </p>
@@ -83,6 +91,25 @@ I am a **full-stack developer** from Ambala, Haryana, India (CS Engineering unde
 | ⚡ **MONO** | **Local-First Personal Productivity OS**<br>Zero-latency offline productivity suite using IndexedDB for browser-native storage. Features a keyboard-first `Ctrl+K` launcher and micro-animated Motion UI. | `React` `TypeScript` `IndexedDB` `TailwindCSS` | [🌐 Live Demo](https://mono-gray-three.vercel.app/) • [💻 Repo](https://github.com/siddhantbhatia220/mono) |
 | 🗑️ **BinWatch** | **IoT Smart Waste Monitoring System**<br>Hardware telemetry platform built with ESP32 microcontrollers and HC-SR04 ultrasonic sensors. Embedded C firmware with noise-filtering algorithms sending RESTful alerts. | `ESP32` `Embedded C` `Express.js` `REST APIs` | [🌐 Live Demo](https://binwatch-one.vercel.app/) • [💻 Repo](https://github.com/siddhantbhatia220/binwatch) |
 
+<details>
+<summary>🔍 <b>Deep Dive into Architecture & Technical Highlights</b></summary>
+
+<br>
+
+#### 🚗 AiCommuter Engine Architecture
+- **Gemini AI Matching Engine**: Evaluates driver routes against commuter origins/destinations with semantic context awareness.
+- **Polyglot Data Layer**: MongoDB handles transient high-frequency geolocation updates; PostgreSQL with Prisma handles financial transactions and user profiles.
+
+#### ⚡ MONO Offline Storage Strategy
+- **Browser-Native Persistence**: Built on IndexedDB for 0ms access latency without backend reliance.
+- **Command Palette Execution**: Keyboard-driven `Ctrl+K` architecture with custom fuzzy search algorithms.
+
+#### 🗑️ BinWatch Firmware Telemetry
+- **Hardware Filtering**: Moving average digital filter on ESP32 firmware eliminates ultrasonic sensor noise.
+- **Automated Alerts**: Low-latency RESTful webhooks notify waste management services when capacity exceeds 85%.
+
+</details>
+
 ---
 
 ### 🌟 International Programs & Certifications
@@ -96,6 +123,14 @@ I am a **full-stack developer** from Ambala, Haryana, India (CS Engineering unde
   - **Postman Student Expert** — API Design & Automated Testing
   - **Google Prompting Essentials** — Advanced LLM Engineering
   - **Coursera Specializations** — AI for Everyone, Generative AI Fundamentals, Agentic AI & AI Agents
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=siddhantbhatia220&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" width="100%" />
+</div>
 
 ---
 
@@ -115,7 +150,15 @@ I am a **full-stack developer** from Ambala, Haryana, India (CS Engineering unde
 
 ---
 
-### 🐍 Contribution Activity Graph
+### 📈 Contribution Activity Curve
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantbhatia220&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" width="100%" />
+</div>
+
+---
+
+### 🐍 Contribution Activity Graph (Snake Animation)
 
 <div align="center">
   <picture>
@@ -137,5 +180,11 @@ I am a **full-stack developer** from Ambala, Haryana, India (CS Engineering unde
 <br>
 
 <div align="center">
-  <sub><i>If you like what I build, give a star to my projects and let's collaborate!</i></sub>
+
+  <img src="https://readme-daily-quotes.vercel.app/api?author=true&theme=tokyonight" alt="Daily Quote" width="60%" />
+
+  <br><br>
+
+  <sub><i>Designed with ❤️ by <b>Siddhant Bhatia</b> • Built for performance & open-source collaboration</i></sub>
+
 </div>
