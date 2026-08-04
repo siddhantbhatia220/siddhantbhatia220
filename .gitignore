@@ -1,0 +1,14 @@
+# macOS / Windows OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node / Temp files
+node_modules/
+*.log
+.env
+.env.local
+
+# IDE files
+.vscode/
+.idea/
