@@ -1,8 +1,11 @@
 <div align="center">
 
-  <!-- Motion UI Typing Header -->
+  <!-- Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:6366f1&height=200&section=header&text=Siddhant%20Bhatia&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20Systems%20Developer%20%7C%20AI%20Architect&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
+
+  <!-- Motion UI Typing Sub-header -->
   <a href="https://bhatiasiddhant.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&height=70&lines=Hi+there%2C+I'm+Siddhant+Bhatia+%F0%9F%91%8B;Full-Stack+%26+Systems+Developer+%F0%9F%92%BB;AI+Integrations+%26+Local-First+Architect+%F0%9F%9A%80;Competitive+Programmer+%26+CS+Undergrad+%F0%9F%8E%93" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&height=60&lines=Full-Stack+%26+Systems+Developer+%F0%9F%92%BB;AI+Integrations+%26+Local-First+Architect+%F0%9F%9A%80;Competitive+Programmer+%26+CS+Undergrad+%F0%9F%8E%93" alt="Typing Banner" />
   </a>
 
   <p align="center">
@@ -18,7 +21,7 @@
     <a href="https://github.com/siddhantbhatia220"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 
-  <!-- Profile Navigation & Counter -->
+  <!-- Profile Navigation Bar -->
   <p align="center">
     <code><a href="#-about-me">About Me</a></code> • 
     <code><a href="#%EF%B8%8F-tech-arsenal">Tech Arsenal</a></code> • 
@@ -27,6 +30,7 @@
     <code><a href="#-github--leetcode-analytics">Analytics</a></code>
   </p>
 
+  <!-- Profile Views counter -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=siddhantbhatia220&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   </p>
@@ -184,6 +188,8 @@ I am a **full-stack developer** from Ambala, Haryana, India (CS Engineering unde
   <img src="https://readme-daily-quotes.vercel.app/api?author=true&theme=tokyonight" alt="Daily Quote" width="60%" />
 
   <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:38bdf8&height=100&section=footer" width="100%" alt="Footer Wave" />
 
   <sub><i>Designed with ❤️ by <b>Siddhant Bhatia</b> • Built for performance & open-source collaboration</i></sub>
 
