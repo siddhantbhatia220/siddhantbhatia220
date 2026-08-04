@@ -39,6 +39,14 @@ I am a **full-stack developer** from Ambala, Haryana, India (CS Engineering unde
 
 ---
 
+### 💬 Quote of the Day
+
+<div align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=true&theme=tokyonight" alt="Daily Quote" width="60%" />
+</div>
+
+---
+
 ### ⚡ Snapshot
 
 | Parameter | Detail |
@@ -202,7 +210,5 @@ I am a **full-stack developer** from Ambala, Haryana, India (CS Engineering unde
 <br>
 
 <div align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=true&theme=tokyonight" alt="Daily Quote" width="60%" />
-  <br><br>
   <sub><i>Designed with ❤️ by <b>Siddhant Bhatia</b> • Built for performance & open-source collaboration</i></sub>
 </div>
