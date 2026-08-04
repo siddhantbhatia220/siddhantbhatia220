@@ -118,9 +118,25 @@ I am a **full-stack developer** from Ambala, Haryana, India (CS Engineering unde
 ### 🧩 LeetCode Analytics
 
 <div align="center">
+
+  <!-- Live LeetCode Metric Badges -->
+  <p align="center">
+    <a href="https://leetcode.com/u/bhatiasiddhant/">
+      <img src="https://img.shields.io/badge/LeetCode-bhatiasiddhant-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Handle"/>
+      <img src="https://img.shields.io/badge/Solved-109+-38bdf8?style=for-the-badge&logo=leetcode" alt="Solved"/>
+      <img src="https://img.shields.io/badge/Easy-72-22c55e?style=for-the-badge" alt="Easy"/>
+      <img src="https://img.shields.io/badge/Medium-33-eab308?style=for-the-badge" alt="Medium"/>
+      <img src="https://img.shields.io/badge/Hard-4-ef4444?style=for-the-badge" alt="Hard"/>
+    </a>
+  </p>
+
+  <br>
+
+  <!-- Live LeetCode Heatmap & Ranking Card -->
   <a href="https://leetcode.com/u/bhatiasiddhant/">
     <img src="https://leetcard.jacoblin.cool/bhatiasiddhant?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Profile Card" width="65%" />
   </a>
+
 </div>
 
 ---
