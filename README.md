@@ -72,6 +72,20 @@ I am a **full-stack developer** from Ambala, Haryana, India (CS Engineering unde
 | ⚡ **MONO** | **Local-First Personal Productivity OS**<br>Zero-latency offline productivity suite using IndexedDB for browser-native storage. Features a keyboard-first `Ctrl+K` launcher and micro-animated Motion UI. | `React` `TypeScript` `IndexedDB` `TailwindCSS` | [🌐 Live Demo](https://mono-gray-three.vercel.app/) • [💻 Repo](https://github.com/siddhantbhatia220/mono) |
 | 🗑️ **BinWatch** | **IoT Smart Waste Monitoring System**<br>Hardware telemetry platform built with ESP32 microcontrollers and HC-SR04 ultrasonic sensors. Embedded C firmware with noise-filtering algorithms sending RESTful alerts. | `ESP32` `Embedded C` `Express.js` `REST APIs` | [🌐 Live Demo](https://binwatch-one.vercel.app/) • [💻 Repo](https://github.com/siddhantbhatia220/binwatch) |
 
+<br>
+
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/siddhantbhatia220/aicommuter">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddhantbhatia220&repo=aicommuter&theme=tokyonight" alt="AiCommuter Pin" width="48%"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/siddhantbhatia220/mono">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddhantbhatia220&repo=mono&theme=tokyonight" alt="MONO Pin" width="48%"/>
+    </a>
+  </p>
+</div>
+
 <details>
 <summary>🔍 <b>Deep Dive into Architecture & Technical Highlights</b></summary>
 
@@ -104,6 +118,14 @@ I am a **full-stack developer** from Ambala, Haryana, India (CS Engineering unde
   - **Postman Student Expert** — API Design & Automated Testing
   - **Google Prompting Essentials** — Advanced LLM Engineering
   - **Coursera Specializations** — AI for Everyone, Generative AI Fundamentals, Agentic AI & AI Agents
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=siddhantbhatia220&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" width="100%" />
+</div>
 
 ---
 
@@ -150,7 +172,15 @@ I am a **full-stack developer** from Ambala, Haryana, India (CS Engineering unde
 
 ---
 
-### 🐍 Contribution Activity Graph
+### 📈 Contribution Activity Curve
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantbhatia220&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" width="100%" />
+</div>
+
+---
+
+### 🐍 Contribution Activity Graph (Snake Animation)
 
 <div align="center">
   <picture>
@@ -172,5 +202,7 @@ I am a **full-stack developer** from Ambala, Haryana, India (CS Engineering unde
 <br>
 
 <div align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=true&theme=tokyonight" alt="Daily Quote" width="60%" />
+  <br><br>
   <sub><i>Designed with ❤️ by <b>Siddhant Bhatia</b> • Built for performance & open-source collaboration</i></sub>
 </div>
