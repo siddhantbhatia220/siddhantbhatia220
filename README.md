@@ -107,19 +107,11 @@ I am a **full-stack developer** from Ambala, Haryana, India (CS Engineering unde
 
 ---
 
-### 📊 GitHub Activity & Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantbhatia220&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="60%" />
-</div>
-
----
-
-### 🧩 LeetCode Analytics
+### 📊 Real-Time GitHub & LeetCode Analytics
 
 <div align="center">
 
-  <!-- Live LeetCode Metric Badges -->
+  <!-- Live LeetCode & GitHub Badges -->
   <p align="center">
     <a href="https://leetcode.com/u/bhatiasiddhant/">
       <img src="https://img.shields.io/badge/LeetCode-bhatiasiddhant-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Handle"/>
@@ -132,10 +124,27 @@ I am a **full-stack developer** from Ambala, Haryana, India (CS Engineering unde
 
   <br>
 
-  <!-- Live LeetCode Heatmap & Ranking Card -->
-  <a href="https://leetcode.com/u/bhatiasiddhant/">
-    <img src="https://leetcard.jacoblin.cool/bhatiasiddhant?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Profile Card" width="65%" />
-  </a>
+  <!-- Real-Time Analytics Grid -->
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=siddhantbhatia220&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%"/>
+      </td>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantbhatia220&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantbhatia220&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%"/>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://leetcode.com/u/bhatiasiddhant/">
+          <img src="https://github-readme-leetcode-stats.vercel.app/api?username=bhatiasiddhant&theme=dark" alt="LeetCode Stats" width="100%"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
