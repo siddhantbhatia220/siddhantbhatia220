@@ -135,6 +135,6 @@ I am a **Full-Stack Developer** and **Computer Science Engineering student** at 
 
   <br><br>
 
-  <sub><i>Designed with ❤️ & Motion UI elements for <b>Siddhant Bhatia</b></i></sub>
+  <sub><i>Designed by <b>Siddhant Bhatia</b></i></sub>
 
 </div>
