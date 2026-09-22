@@ -48,6 +48,7 @@ I am a **full-stack & systems developer** (CS Engineering undergrad at Chitkara 
 - 🚀 **Building with**: React, Next.js, Node.js, Express, TypeScript, MongoDB, PostgreSQL, Redis & Google Gemini LLM workflows.
 - 💡 **Engineering Philosophy**: Zero-latency local-first UX, clean modular microservices, resilient fault tolerance & clean code.
 - 🌐 **Global Programs**: Merit-based scholar at **Telkom University (Indonesia - GLOW 2026)** & participant at **Astana IT University (Kazakhstan - AI & Robotics)**.
+- 🔭 **Currently Exploring**: High-throughput microservices orchestration, agentic AI pipelines & distributed caching layers.
 - 🤝 **Open to**: High-impact internships, open-source projects, and systems engineering collaborations.
 
 ---
@@ -76,9 +77,19 @@ I am a **full-stack & systems developer** (CS Engineering undergrad at Chitkara 
 ### 🛠️ Tech Arsenal
 
 <div align="center">
+
+  #### 💻 Languages & Frameworks
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,py,cpp,ts,react,next,html,css,tailwind,nodejs,express,postgres,mongodb,redis,docker,git,github,vscode,linux" alt="Tech Arsenal" />
+    <img src="https://skillicons.dev/icons?i=ts,js,java,py,cpp,react,next,nodejs,express,html,css,tailwind" alt="Languages and Frameworks" />
   </a>
+
+  <br><br>
+
+  #### 🗄️ Databases, Cloud & DevOps
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux,git,github,vscode,postman" alt="Databases and Tools" />
+  </a>
+
 </div>
 
 ---
@@ -151,7 +162,7 @@ I am a **full-stack & systems developer** (CS Engineering undergrad at Chitkara 
 
 <div align="center">
 
-  <!-- Live LeetCode Badge Indicators -->
+  <!-- Live LeetCode Badge Indicators (Auto-synced via GitHub Actions) -->
   <p align="center">
     <a href="https://leetcode.com/u/bhatiasiddhant/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-bhatiasiddhant-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Handle"/>
