@@ -1,0 +1,41 @@
+name: Sync LeetCode Real-Time Stats
+
+on:
+  schedule:
+    # Run every 6 hours automatically to sync latest LeetCode progress
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/scripts/update-stats.js"
+      - ".github/workflows/leetcode.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  sync-leetcode:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch and Sync LeetCode Analytics
+        run: node .github/scripts/update-stats.js
+
+      - name: Commit and Push if Changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No stats changes detected. Everything is up to date."
+          else
+            git commit -m "chore(stats): update real-time LeetCode metrics [skip ci]"
+            git push origin main
+          fi
