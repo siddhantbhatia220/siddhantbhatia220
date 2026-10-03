@@ -166,8 +166,8 @@ I am a **full-stack & systems developer** (CS Engineering undergrad at Chitkara 
   <p align="center">
     <a href="https://leetcode.com/u/bhatiasiddhant/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-bhatiasiddhant-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Handle"/>
-      <img src="https://img.shields.io/badge/Solved-173+-38bdf8?style=for-the-badge&logo=leetcode" alt="Solved"/>
-      <img src="https://img.shields.io/badge/Easy-106-22c55e?style=for-the-badge" alt="Easy"/>
+      <img src="https://img.shields.io/badge/Solved-174+-38bdf8?style=for-the-badge&logo=leetcode" alt="Solved"/>
+      <img src="https://img.shields.io/badge/Easy-107-22c55e?style=for-the-badge" alt="Easy"/>
       <img src="https://img.shields.io/badge/Medium-58-eab308?style=for-the-badge" alt="Medium"/>
       <img src="https://img.shields.io/badge/Hard-9-ef4444?style=for-the-badge" alt="Hard"/>
     </a>
